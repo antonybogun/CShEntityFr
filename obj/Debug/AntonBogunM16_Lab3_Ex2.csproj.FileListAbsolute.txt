@@ -1,0 +1,17 @@
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\AntonBogunM16_Lab3_Ex2.exe.config
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\AntonBogunM16_Lab3_Ex2.exe
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\AntonBogunM16_Lab3_Ex2.pdb
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\EntityFramework.dll
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\EntityFramework.SqlServer.dll
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\Learner.dll
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\Learner.pdb
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\EntityFramework.xml
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\EntityFramework.SqlServer.xml
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.csprojResolveAssemblyReference.cache
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.Form1.resources
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.Properties.Resources.resources
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.csproj.GenerateResource.Cache
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.exe
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\obj\Debug\AntonBogunM16_Lab3_Ex2.pdb
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\TonyDB.mdf
+D:\MEGA\VS2015\Projects\COMP212\labs\AntonBogunM16_Lab3_Ex2\AntonBogunM16_Lab3_Ex2\bin\Debug\TonyDB_log.ldf
